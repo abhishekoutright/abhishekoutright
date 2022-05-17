@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Abhishek Sharma
-- This is the developer documentation for the OutRight Systems Developers
+- I am Technical Content Writer at OutRight Systems
